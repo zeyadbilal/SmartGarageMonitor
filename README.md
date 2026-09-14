@@ -1,5 +1,5 @@
 # SmartGarageMonitor
-# 🚗 Smart Parking Monitoring System with Python, Prometheus, and Grafana
+#  Smart Parking Monitoring System with Python, Prometheus, and Grafana
 
 This project simulates a smart garage monitoring system using Python, Prometheus, and Grafana. It exposes custom metrics that reflect the state of a parking lot in real-time, and provides alerting when the garage reaches full capacity.
 
